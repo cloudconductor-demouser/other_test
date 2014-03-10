@@ -26,7 +26,7 @@
   </cc:Machines>
   <cc:MachineGroups>
     <cc:MachineGroup id="machine_group_1" ref="machine_1">
-      <cc:Name>Machine Group 1</cc:Name>
+      <cc:Name>MG</cc:Name>
       <cc:Infrastructures>
         <cc:Infrastructure ref="infrastructure_1" />
       </cc:Infrastructures>
